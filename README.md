@@ -1,2 +1,2 @@
 # Proffy
-Site desenvolvido durante a segunda Next Level Week da RocketSeat
+Site desenvolvido durante a segunda Next Level Week da RocketSeat.
